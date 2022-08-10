@@ -1,6 +1,14 @@
 
 > Open this page at [https://elalae.github.io/microbit-morse-translator/](https://elalae.github.io/microbit-morse-translator/)
 
+## Instructions:
+*Press button **A** for **.** and button **B** is for **_**
+*Type any letter from the english alphabet
+*Press the logo
+*After you've seen the translation shake the microcontroller
+*Type another letter
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
